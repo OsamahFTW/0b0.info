@@ -1,32 +1,25 @@
 
-### Markdown
+### Summary
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+0b0t.org is the gayest.. i mean best minecraft server ever!
+it have great responsible admins [Ethereas on top](https://www.youtube.com/channel/UChwXuixhYw-jsYwxVlrviOQ)
+Rules:
+No hacking
+No griefing
+No hax again
+No racism pwease!!!
+**MOST IMPORTANT OF ALL!!!!** is [_**Donate**_](https://donate.0b0t.org/)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Bases
 
-- Bulleted
-- List
+tbh idk any bases beside EtherVille cuz im cool guy
 
-1. Numbered
-2. List
+### Sponsor
 
-**Bold** and _Italic_ and `Code` text
+This website is made possible from [Osamah!](http://0b0t.world) 
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/OsamahFTW/0b0.info/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+DM - osamah#9061 on discord for any more suggestions for this shitty... i mean cool website!
