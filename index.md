@@ -1,25 +1,45 @@
+<html>
 
-### Summary
+<head>
+    <meta http-equiv="refresh" content="0; url='https://discord.gg/6mTSz4GmZA'"/>
+  
+    <!-- HTML Meta Tags -->
+    <title>Join 0b0t.ORG discord today!</title>
+    <meta name="title" content="Join 0b0t.ORG discord today!"/>
+    <meta name="description"
+          content="This is the greatest minecraft anarchy server that we have had in our history, the best."/>
+    <meta name="keywords"
+          content="4chan, v, vg, anarchy, minecraft, server, vanilla, 0B0T.net, 0b0t.org, 0b0t, PvP, pvp, Facepunch, facepunch, number, one, something awful, something, awful, 0b0t.org, dope, GOAT, melon, Gucci, Cope, PVP"/>
+    <meta name="news_keywords"
+          content="minecraft, anarchy, server, cpvp, griefing, WiredTombstone, oldfag, anarchy minecraft, hacked client, minecraft hacked client, minecraft utility mod"/>
 
-0b0t.org is the gayest.. i mean best minecraft server ever!
-it have great responsible admins [Ethereas on top](https://www.youtube.com/channel/UChwXuixhYw-jsYwxVlrviOQ)
-Rules:
-No hacking
-No griefing
-No hax again
-No racism pwease!!!
-**MOST IMPORTANT OF ALL!!!!** is [_**Donate**_](https://donate.0b0t.org/)
+    <!-- Facebook Meta Tags -->
+    <meta property="og:title" content="Join 0b0t.ORG discord today!"/>
+    <meta property="og:description"
+          content="This is the greatest minecraft anarchy server that we have had in our history, the best."/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:url" content="https://discord.0b0t.org/"/>
+    <meta property="og:image" content="https://discord.0b0t.org/images/banner.png"/>
 
+    <!-- Twitter Meta Tags -->
+    <meta name="twitter:card" content="summary_large_image"/>
+    <meta property="twitter:domain" content="discord.0b0t.org"/>
+    <meta property="twitter:url" content="https://discord.0b0t.org/"/>
+    <meta name="twitter:title" content="Join 0b0t.ORG discord today!"/>
+    <meta name="twitter:description"
+          content="0b0t is a survival anarchy minecraft server based around the idea that players can do basically anything."/>
+    <meta name="twitter:creator" content="@Minecraft"/>
+    <meta name="twitter:image" content="https://discord.0b0t.org/images/banner.png"/>
 
-### Bases
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/>
 
-tbh idk any bases beside EtherVille cuz im cool guy
+    <link rel="canonical" href="https://discord.0b0t.org"/>
+</head>
 
-### Sponsor
+<body>
+  <script>
+    window.location.replace("https://discord.gg/6mTSz4GmZA");
+  </script>
+</body>
 
-This website is made possible from [Osamah!](http://0b0t.world) 
-
-
-
-
-DM - osamah#9061 on discord for any more suggestions for this shitty... i mean cool website!
+</html>
